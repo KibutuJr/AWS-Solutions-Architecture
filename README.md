@@ -43,6 +43,15 @@ This modernized design delivers **performance, availability, and reliability** w
 
 ---
 
+## 🖼️ Architecture Diagram
+Below is the high-level architecture illustrating the solution:
+
+![System Architecture Diagram](Architecture%20Diagram.png)
+
+The diagram highlights how Route 53, Elastic Beanstalk, RDS, S3, Auto Scaling, Load Balancer, and CodePipeline integrate to form a modern, resilient architecture.  
+
+---
+
 ## 🏗️ Architecture Components
 
 ### 1. **Route 53 Hosted Zone**
@@ -111,15 +120,6 @@ This modernized design delivers **performance, availability, and reliability** w
   - Traffic switches only when Blue is fully operational.  
 
 **Outcome:** Continuous delivery with reduced risk.  
-
----
-
-## 🖼️ Architecture Diagram
-Below is the high-level architecture illustrating the solution:
-
-![System Architecture Diagram](Architecture%20Diagram.png)
-
-The diagram highlights how Route 53, Elastic Beanstalk, RDS, S3, Auto Scaling, Load Balancer, and CodePipeline integrate to form a modern, resilient architecture.  
 
 ---
 
