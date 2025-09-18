@@ -185,7 +185,8 @@ This ensures **transparency** with the client and helps them understand the busi
 If you’d like to learn more or discuss cloud architecture solutions, feel free to connect with me:  
 
 - **LinkedIn**: [Fred Kibutu](https://www.linkedin.com/in/fred-kibutu/)  
-- **Email**: [kibutujr@gmail.com](mailto:kibutujr@gmail.com)  
+- **Email**: [kibutujr@gmail.com](mailto:kibutujr@gmail.com)
+- **Porfolio**: [KibutuJR](https://kibutujr.vercel.app/)
 
 ---
 
